@@ -22,3 +22,27 @@ body{
     display: inline-block;
 }
 .icons div img { width: 100%;}
+
+.icons {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.icons h2 {
+    font-family:'Handlee', Arial, sans-serif;
+    font-size: 2em;
+    color: rgb(119, 104, 134);
+    margin: 20px 0;
+}
+
+.icons div {
+    width: 20%;
+    display: inline-block;
+    
+}
+
+.icons div img {
+    width: 40%;
+    cursor: pointer;
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1364 318">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2c9984;
+      }
+
+      .cls-3 {
+        fill: #ffd05b;
+      }
+
+      .cls-4 {
+        fill: #e6e9ee;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        font-size: 38px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: Groupie-Gloss, Groupie;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        fill: #f1543f;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        fill: #acd176;
+      }
+
+      .cls-7 {
+        font-size: 38.5px;
+      }
+
+      .cls-12 {
+        fill: #2b3b4e;
+      }
+    </style>
+  </defs>
+  <rect class="cls-11" width="1364" height="318"/>
+  <g>
+    <ellipse class="cls-3" cx="162.27" cy="103.9" rx="69.29" ry="65.46"/>
+    <ellipse class="cls-9" cx="162.27" cy="79.9" rx="17.93" ry="16.93"/>
+    <path class="cls-2" d="M165.36,96.88h29.58v-.76c0-9.17-7.63-16.81-17.33-17.1-6.41-.2-12.05,2.76-15.45,7.37,1.98,2.7,3.08,6.02,3.08,9.56,.1,.31,.1,.62,.1,.93h.01Z"/>
+    <path class="cls-4" d="M162.19,86.54c-2.88-4.02-7.62-6.79-13.03-7.3-10.58-.98-19.69,7.03-19.69,17.06v.72h35.69v-.93c.1-3.53-.98-6.86-2.96-9.56h0Z"/>
+    <path class="cls-12" d="M194.97,96.88H127.49c-1.22,0-2.2,1.04-1.98,2.29l8.92,44.1c.22,.94,1,1.56,1.98,1.56h51.74c1,0,1.76-.62,1.98-1.56l8.92-44.1c.22-1.14-.66-2.29-1.98-2.29,0,0-2.1,0-2.1,0Z"/>
+    <path class="cls-1" d="M140.75,136.75l-6.37-31.23c-.1-.73,.44-1.45,1.32-1.45h53.15c.88,0,1.42,.73,1.32,1.45l-6.37,31.23c-.1,.62-.66,1.04-1.32,1.04h-40.41c-.66,0-1.2-.41-1.32-1.04Z"/>
+    <path class="cls-9" d="M162.27,109.62c2.74-3.22,6.6-3.95,9.46-2.91,6.71,2.39,8.36,11.44,2.52,17.15l-11.99,11.63-11.99-11.74c-5.83-5.71-4.18-14.75,2.52-17.15,2.86-.93,6.71-.21,9.46,3.01h0Z"/>
+  </g>
+  <text class="cls-7" transform="translate(491.88 75.65)"><tspan x="0" y="0">CON</tspan><tspan class="cls-5" x="42.11" y="0">T</tspan><tspan class="cls-10" x="56.2" y="0">ACT US</tspan></text>
+  <text class="cls-6" transform="translate(666.71 75.11) scale(1.05 1)"><tspan x="0" y="0">TERMS AND CONDITIONS</tspan></text>
+  <text class="cls-6" transform="translate(971.29 75.07)"><tspan x="0" y="0">EVENT</tspan></text>
+  <text class="cls-6" transform="translate(1087.64 75.21)"><tspan x="0" y="0">LOC</tspan><tspan class="cls-8" x="38.72" y="0">A</tspan><tspan x="52.48" y="0">TION</tspan></text>
+  <text class="cls-6" transform="translate(1232.93 76.5)"><tspan x="0" y="0">RECIPIES</tspan></text>
+  <g>
+    <rect class="cls-1" x="695.5" y="209.5" width="449" height="48"/>
+    <path d="M1144,210v47h-448v-47h448m1-1h-450v49h450v-49h0Z"/>
+  </g>
+  <text class="cls-6" transform="translate(450 246.29)"><tspan x="0" y="0">NEWSLETTER SIGNUP</tspan></text>
+  <g>
+    <rect class="cls-11" x="1173.5" y="207.5" width="140" height="53"/>
+    <path d="M1313,208v52h-139v-52h139m1-1h-141v54h141v-54h0Z"/>
+  </g>
+  <text class="cls-6" transform="translate(1200.64 246.07)"><tspan x="0" y="0">SUBMIT</tspan></text>
+</svg>
