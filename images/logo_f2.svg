@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1360 152">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2c9984;
+      }
+
+      .cls-3 {
+        fill: #ffd05b;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        fill: #e6e9ee;
+      }
+
+      .cls-6 {
+        font-size: 69.82px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: Groupie-Gloss, Groupie;
+      }
+
+      .cls-9 {
+        fill: #f1543f;
+      }
+
+      .cls-10 {
+        fill: #acd176;
+      }
+
+      .cls-7 {
+        font-size: 40.22px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        fill: #2b3b4e;
+      }
+
+      .cls-13 {
+        fill: url(#radial-gradient);
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-size: 38.79px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="1204.56" cy="91.45" fx="1225.76" fy="165.8" r="77.32" gradientTransform="translate(-52.73 -15.6) scale(1.06)" gradientUnits="userSpaceOnUse">
+      <stop offset=".74" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".76" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".77" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset=".79" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset=".79" stop-color="#fff" stop-opacity=".18"/>
+      <stop offset=".8" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".81" stop-color="#fff" stop-opacity=".4"/>
+      <stop offset=".82" stop-color="#fff" stop-opacity=".5"/>
+      <stop offset=".82" stop-color="#dbc01f"/>
+      <stop offset=".83" stop-color="#f1dc3a"/>
+      <stop offset=".84" stop-color="#f5e13f"/>
+      <stop offset=".84" stop-color="#dbc01f"/>
+      <stop offset=".85" stop-color="#e1ca45"/>
+      <stop offset=".87" stop-color="#e9d876"/>
+      <stop offset=".89" stop-color="#efe4a0"/>
+      <stop offset=".91" stop-color="#f5eec2"/>
+      <stop offset=".93" stop-color="#f9f5dd"/>
+      <stop offset=".95" stop-color="#fcfaf0"/>
+      <stop offset=".98" stop-color="#fefdfb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <rect class="cls-10" y="0" width="1357" height="152"/>
+  <g>
+    <rect class="cls-1" x="1350.5" y="74.5" width="9" height="1"/>
+    <polygon points="1360 74 1350 74 1350 76 1360 76 1360 74 1360 74"/>
+  </g>
+  <g>
+    <ellipse class="cls-3" cx="101.56" cy="55.46" rx="47.22" ry="46.54"/>
+    <ellipse class="cls-9" cx="101.56" cy="38.4" rx="12.22" ry="12.04"/>
+    <path class="cls-2" d="M103.67,50.47h20.16v-.54c0-6.52-5.2-11.95-11.81-12.16-4.37-.14-8.21,1.96-10.53,5.24,1.35,1.92,2.1,4.28,2.1,6.8,.07,.22,.07,.44,.07,.66Z"/>
+    <path class="cls-5" d="M101.51,43.12c-1.96-2.86-5.19-4.83-8.88-5.19-7.21-.7-13.42,5-13.42,12.13v.51h24.32v-.66c.07-2.51-.67-4.88-2.02-6.8Z"/>
+    <path class="cls-12" d="M123.85,50.47h-45.99c-.83,0-1.5,.74-1.35,1.63l6.08,31.35c.15,.67,.68,1.11,1.35,1.11h35.26c.68,0,1.2-.44,1.35-1.11l6.08-31.35c.15-.81-.45-1.63-1.35-1.63h-1.43Z"/>
+    <path class="cls-1" d="M86.9,78.82l-4.34-22.2c-.07-.52,.3-1.03,.9-1.03h36.22c.6,0,.97,.52,.9,1.03l-4.34,22.2c-.07,.44-.45,.74-.9,.74h-27.54c-.45,0-.82-.29-.9-.74Z"/>
+    <path class="cls-9" d="M101.56,59.53c1.87-2.29,4.5-2.81,6.45-2.07,4.57,1.7,5.7,8.13,1.72,12.19l-8.17,8.27-8.17-8.35c-3.97-4.06-2.85-10.49,1.72-12.19,1.95-.66,4.57-.15,6.45,2.14Z"/>
+  </g>
+  <text class="cls-8" transform="translate(16.5 129.78)"><tspan x="0" y="0" xml:space="preserve">          launge</tspan></text>
+  <text class="cls-7" transform="translate(385.89 105.47)"><tspan x="0" y="0" xml:space="preserve">MENU     CON</tspan><tspan class="cls-14" x="132.49" y="0">T</tspan><tspan x="147.22" y="0" xml:space="preserve">ACT     FL</tspan><tspan class="cls-14" x="245.2" y="0">A</tspan><tspan x="259.76" y="0" xml:space="preserve">VOURS     COU</tspan><tspan class="cls-4" x="401.99" y="0">P</tspan><tspan class="cls-15" x="415.3" y="0" xml:space="preserve">ANS     </tspan><tspan class="cls-11" x="484.93" y="0">AV</tspan><tspan x="515.13" y="0">AILABILITY</tspan></text>
+  <g>
+    <text class="cls-6" transform="translate(1163.07 106.2) scale(.94 1)"><tspan x="0" y="0">signin</tspan></text>
+    <rect class="cls-13" x="1119" y="23" width="199.5" height="116.5" rx="12" ry="12"/>
+  </g>
+</svg>
