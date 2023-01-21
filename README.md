@@ -1,6 +1,6 @@
-# my super awesome icon project
+# icecream symbols
 
-TODO: Write a project description
+Set of icecream icons. whichshows diffrent types of icecream and diffrent flavours of icecream.s
 
 
 ## Contributing
