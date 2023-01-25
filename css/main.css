@@ -7,8 +7,8 @@
 }
 
 body{
-    font-size: 16px;
-    background-color: pink;
+    font-size: 46px;
+    background-color: whitesmoke;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -21,7 +21,7 @@ body{
     width: 45%;
     display: inline-block;
 }
-.icons div img { width: 100%;}
+
 
 .icons {
     text-align: center;
@@ -44,5 +44,32 @@ body{
 
 .icons div img {
     width: 40%;
-    cursor: pointer;
-}
+    cursor: pointer;}
+
+ #choclate_cone:hover #yo{ fill: orange; }
+ #square_icecream:hover #eyes{ fill: rgb(255, 132, 0);}
+ #square_icecream:hover #ice_stick{ fill: rgb(255, 98, 0);}
+
+ #teddy_icecream:hover #stick_12{fill: aqua;transition: all 1s ease; }
+ #teddy_icecream:hover #eyes_1{fill: aqua;transition: all 1s ease; }
+
+ #ranbow_icecream:hover #stick3_1{ fill: rgb(80, 235, 255);transition: all 1s ease;}
+ #ranbow_icecream:hover #eyes3_1{fill: rgb(80, 188, 255);transition: all 1s ease;}
+
+ #blue_icecream:hover  #cone5_1{fill: blueviolet ; transition: all 1s ease;}
+ #blue_icecream:hover  #eyes5_1{fill: blueviolet ; transition: all 1s ease;}
+
+
+ #cloud_icecream:hover #cone6_1{fill: brown;transition: all 1s ease;}
+ #cloud_icecream:hover #eyes6_1{fill: brown;transition: all 1s ease;}
+
+
+ #heart_icecream:hover #stick7_1-2{fill: brown;transition: all 1s ease;}
+
+ #emogi_icecream:hover #stick8_1{fill: aqua;transition: all 1s ease;}
+ #emogi_icecream:hover #eye8{fill: aqua;transition: all 1s ease;}
+
+ #ranbow2_icecream:hover #blush{fill: aqua;transition: all 1s ease;}
+ #ranbow2_icecream:hover #stick_9{fill: aqua;transition: all 1s ease;}
+
+ #triangle_icecream:hover #stick_10-1{fill: aqua;transition: all 1s ease;}
