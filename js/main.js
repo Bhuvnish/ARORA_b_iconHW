@@ -5,7 +5,7 @@ console.log('javascript is running!');
 
 //step1 - select the elements you want the user to intract with//
 
-let cone_icecream = document.querySelector("#cone_icecream");
+let choclate_cone = document.querySelector("#choclate_cone");
 
 // what happens when the  events are triggred//
 function logid(){
@@ -14,7 +14,7 @@ function logid(){
 
 // step 2- how do you want the user to intract with the element?
 
-cone_icecream.addEventListener('click',logid);
+choclate_cone.addEventListener('click',logid);
 // what happens when the  events are triggred//
 
 let square_icecream = document.querySelector("#square_icecream");
@@ -25,12 +25,12 @@ function logid(){
 square_icecream.addEventListener('click',logid);
 
 
-let teddy = document.querySelector("#teddy");
+let teddy_icecream = document.querySelector("#teddy_icecream");
 
 function logid(){
     console.log(this.id);
 }
-teddy.addEventListener('click',logid);
+teddy_icecream.addEventListener('click',logid);
 
 
 let ranbow_icecream = document.querySelector("#ranbow_icecream");

@@ -1,6 +1,6 @@
 # icecream symbols
 
-Set of icecream icons. whichshows diffrent types of icecream and diffrent flavours of icecream.s
+Set of icecream icons. which shows diffrent types of icecream and diffrent flavours of icecream.s
 
 
 ## Contributing
